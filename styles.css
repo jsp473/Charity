@@ -1,0 +1,18 @@
+img{
+    width: 33%;
+    border-radius: 50px;
+}
+
+body{
+    background-image: url(images/lavG.jpg);
+    background-color: rgba(52, 87, 240, 0.993);
+    background-size: 100%, 100%;
+    background-position: top, center;
+    background-repeat: no-repeat;
+}
+
+#tailright{
+    margin-left: auto;
+    margin-right: 0%;
+    text-align: center;
+}
